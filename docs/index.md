@@ -14,4 +14,4 @@
 
 ---
 
-[Impressum](https://philipphenkel.github.io/impressum/) | [Legal Information](https://philipphenkel.github.io/impressum/) | PolicyID: [8ae267e137282dcac8951a8b1880d97271a44bb131e990424e3ab367](https://pool.pm/policy/8ae267e137282dcac8951a8b1880d97271a44bb131e990424e3ab367)
+[Impressum](https://philipphenkel.github.io/impressum/)  |  [Legal Information](https://philipphenkel.github.io/impressum/)  |  [PolicyID: 8ae267e137282dcac8951a8b1880d97271a44bb131e990424e3ab367](https://pool.pm/policy/8ae267e137282dcac8951a8b1880d97271a44bb131e990424e3ab367)
