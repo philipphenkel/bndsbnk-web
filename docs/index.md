@@ -4,7 +4,8 @@
 
 ![1 Deutsche Mark](deutsche_mark_1.png)
 
-The collection consists of 35 banknotes and 20 coins, i.e. [55 tokens](https://cexplorer.io/policy/8ae267e137282dcac8951a8b1880d97271a44bb131e990424e3ab367), of which the front and back are included in each case.  
+The collection consists of 35 banknotes and 20 coins, i.e. [55 tokens](https://cexplorer.io/policy/8ae267e137282dcac8951a8b1880d97271a44bb131e990424e3ab367), of which the front and back are included in each case. [Deutsche Mark #34](https://pool.pm/asset1r5zrzdqhqf2ak0unjzl0pst5lrp8u2ycwvenuw), the banknote with Clara Schumann, is an excellent example of a token with its metadata.  
+
 Official source of images: **Deutsche Bundesbank, Frankfurt am Main**
 
 > The **Deutsche Mark**, abbreviated "**DM**" or "**D-Mark**", was the official currency of West Germany from 1948
