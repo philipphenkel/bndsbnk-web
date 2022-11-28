@@ -4,7 +4,8 @@
 
 ![1 Deutsche Mark](deutsche_mark_1.png)
 
-*Official source of images:* Deutsche Bundesbank, Frankfurt am Main
+The collection consists of 35 banknotes and 20 coins, i.e. [55 tokens](https://cexplorer.io/policy/8ae267e137282dcac8951a8b1880d97271a44bb131e990424e3ab367), of which the front and back are included in each case.  
+Official source of images: **Deutsche Bundesbank, Frankfurt am Main**
 
 > The **Deutsche Mark**, abbreviated "**DM**" or "**D-Mark**", was the official currency of West Germany from 1948
 > until 1990 and later the unified Germany from 1990 until the adoption of the euro in 2002. In 
