@@ -1,8 +1,8 @@
 # **Deutsche Mark NFT on Cardano**
 
-![1 Deutsche Mark](deutsche_mark_1.png)
+## [DeutscheMark Collection of Banknotes and Coins](https://cexplorer.io/policy/8ae267e137282dcac8951a8b1880d97271a44bb131e990424e3ab367)
 
-A complete collection of Deutsche Mark banknotes and coins, [55 unique assets](https://cexplorer.io/policy/8ae267e137282dcac8951a8b1880d97271a44bb131e990424e3ab367).
+![1 Deutsche Mark](deutsche_mark_1.png)
 
 *Official source of images:* Deutsche Bundesbank, Frankfurt am Main
 
